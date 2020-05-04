@@ -1,0 +1,98 @@
+.teamjoueurs-sec {
+  background: url(../images/sportmen-bg.png) center top no-repeat;
+  background-size: cover;
+  padding: 13.54166666666667vw 0 6.25vw 0;
+  margin-top: -10.34722222222vw;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+
+  .comn-text-area {
+    padding-top: 3.19444444444vw;
+  }
+  .quote-col {
+    bottom: -4.8611111111111vw;
+    padding: 5.138888888888889vw 4.72222222222222vw 7.638888888888889vw 10.472222vw;
+    right: 12.0833333333333vw;
+    ::before {
+      content: "";
+      left: 4.44444444444vw;
+      top: 4.44444444444vw;
+    }
+  }
+  .quote-text {
+    width: 25.41666666666667vw;
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: calc(-1.3888888888888vw - 4.027777777777778vw);
+    }
+  }
+}
+.teamjoueurs-left {
+  float: left;
+  width: 41.6%;
+  position: relative;
+  margin: -0.69444444444444vw 0 0 2.4%;
+  img {
+    width: 100%;
+  }
+}
+.teamjoueurs-right {
+  float: right;
+  width: 56%;
+  padding: 3.472222222222vw 0 0 2.430555555555556vw;
+}
+
+@media only screen and (max-width: $mqsm) {
+  .teamjoueurs-sec {
+    padding: get-vw(60.7) 0 get-vw(86) get-vw(0);
+    background-image: url(../images/iphone-blue-bg.png);
+    margin-top: get-vw(-64);
+
+    .teamjoueurs-right {
+      margin-bottom: get-vw(40);
+      width: 100%;
+      padding: 0 0 0 0;
+    }
+    .teamjoueurs-left {
+      width: 100%;
+      margin-left: 0;
+    }
+    .comn-text-area {
+      margin-top: 0;
+      padding-top: get-vw(27);
+    }
+    .quote-col {
+      background-size: 100%;
+      height: auto;
+      padding: get-vw(31) get-vw(32) get-vw(49) get-vw(69);
+      right: get-vw(-5);
+      bottom: auto;
+      top: calc(-19.68755vw + 100% );
+
+      &:before {
+        width: get-vw(37.8);
+        height: get-vw(30);
+        left: get-vw(19);
+        top: get-vw(26);
+      }
+    }
+    .quote-img {
+      bottom: 4%;
+      width: get-vw(70) !important;
+      img {
+        width: get-vw(60);
+        height: get-vw(60);
+      }
+    }
+
+    .quote-text {
+      font-size: get-vw(12);
+      line-height: get-vw(18);
+      width: get-vw(200);
+      height: get-vw(60);
+    }
+  }
+}

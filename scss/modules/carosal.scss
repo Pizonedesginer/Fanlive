@@ -1,0 +1,22 @@
+.owl-nav {
+  float: right;
+  margin-top: 2.777777777777778vw;
+}
+.owl-nav button.owl-prev {
+  width: 6.144444vw;
+  height: 6.144444vw;
+  background: url(../images/arow-left.png) left top no-repeat !important;
+  background-size: 100% !important;
+  text-indent: -99999999vw;
+  margin-right: -1.3888888888888vw;
+}
+.owl-nav button.owl-next {
+  width: 6.144444vw;
+  height: 6.144444vw;
+  background: url(../images/arow-right.png) left top no-repeat !important;
+  background-size: 100% !important;
+  text-indent: -99999999vw;
+}
+.owl-nav button.disabled {
+  opacity: 0.2;
+}

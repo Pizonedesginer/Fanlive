@@ -1,0 +1,83 @@
+.quote-col.quote-1 {
+  bottom: inherit;
+  top: -22.9166666666666vw;
+}
+
+.quote-col {
+  float: left;
+  clear: both;
+  background: url(../images/quote-bg.png) left top no-repeat;
+  background-size: 100%;
+  padding: 5.138888888888889vw 4.7222222222222vw 5.83333333333333vw 16.25vw;
+  margin-left: 0;
+  position: absolute;
+  bottom: -12.5vw;
+  right: 2.5vw;
+  color: #1e1e1e;
+  // height: 20.833333333333vw;
+
+  &:before {
+    content: "";
+    position: absolute;
+    left: 4.305555555555556vw;
+    top: 2.986111111111111vw;
+    background: url(../images/quotes.png) left top no-repeat;
+    background-size: 100%;
+    width: 4.027777777777778vw;
+    height: 3.472222222222vw;
+  }
+}
+
+// .quote-col.quote-1 .quote-text {
+//   // width: 70%;
+// }
+
+.quote-text {
+  float: left;
+  width: 100%;
+  position: relative;
+  font-size: 1.1111111111vw;
+  font-weight: 300;
+  line-height: 1.805555555555556vw;
+  width: 20.833333333333vw;
+}
+
+.quote-img {
+  position: absolute;
+  left: 0;
+  bottom: 0.06944444444444vw;
+  width: 6.9444444444444vw !important;
+  img {
+    float: left;
+    border-radius: 100%;
+  }
+}
+
+@media screen and (max-width: $mqsm) {
+  .quote-col {
+    background-size: 100% 100%;
+    height: auto;
+    padding: get-vw(40) get-vw(32) get-vw(70) get-vw(75);
+    &:before {
+      background: url(../images/two_quotes_2.png) left top no-repeat;
+      background-size: 100% 100%;
+      width: get-vw(37.8);
+      height: get-vw(30);
+      left: get-vw(19);
+      top: get-vw(26);
+    }
+  }
+  .quote-text {
+    font-size: get-vw(14);
+    line-height: get-vw(18);
+    width: 100%;
+
+    .quote-img {
+      bottom: -2%;
+      img {
+        width: get-vw(70);
+        height: get-vw(70);
+      }
+    }
+  }
+}

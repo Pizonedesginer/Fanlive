@@ -1,0 +1,63 @@
+.compose-sec {
+  padding-top: 5.277777777777778vw;
+
+  .compose-left {
+    width: 63.6%;
+    position: relative;
+    margin-left: -4.3%;
+    padding-top: 1.527777777777778vw;
+  }
+  .compose-right {
+    float: right;
+    width: 50%;
+    margin-left: -19%;
+    position: relative;
+    left: 1.527777777777778vw;
+  }
+  .comn-text-area p {
+    font-size: 0.97222222222vw;
+    line-height: 1.597222222222222vw;
+    max-width: 37.5vw;
+  }
+}
+
+.i_phone_a {
+  float: left;
+  width: 100%;
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: $mqsm) {
+  .compose-sec {
+    padding-top: get-vw(40);
+    .compose-right {
+      width: 100%;
+      padding-right: 0;
+      margin-bottom: get-vw(-2);
+      margin-left: 0;
+      left: 0;
+    }
+    .compose-left {
+      width: 100%;
+      text-align: center;
+      float: none;
+      margin-left: 0;
+      padding: 0;
+    }
+    .comn-text-area p {
+      font-size: get-vw(12);
+      line-height: get-vw(18);
+      font-weight: 300;
+      max-width: 100%;
+    }
+    
+    .i_phone_a img {
+      width: 99%;
+      transform: translateX(-50%);
+      margin-left: 50%;
+      max-width: inherit;
+    }
+  }
+}

@@ -1,0 +1,125 @@
+.profiles-sec .container {
+  max-width: 80%;
+}
+.profiles-sec {
+  background: url(../images/bg-2.png) center top no-repeat;
+  background-size: 100% 100%;
+  padding: 10.41666666666667vw 0 10.694444444444vw 0;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+
+  .comn-text-area {
+    p {
+      max-width: 33.33333333333vw;
+      margin-bottom: 1.180555555555556vw;
+    }
+    h2 {
+      margin: 0 0 1.805555555555556vw 0;
+    }
+  }
+}
+.profiles-left-col {
+  float: left;
+  width: 23%;
+  margin-left: 15%;
+  h5 {
+    font-weight: 600;
+    font-size: 1.666666666666667vw;
+    line-height: 1.597222222222222vw;
+    span {
+      display: block;
+      font-weight: 300;
+      font-size: 0.8333333333333vw;
+      line-height: 1.597222222222222vw;
+    }
+  }
+}
+.prof-img {
+  float: left;
+  width: 100%;
+  margin-bottom: 1.3888888888888vw;
+  img {
+    float: left;
+    width: 100%;
+    border-radius: 3.472222222222vw;
+    box-shadow: 0 0 1.736111111111vw rgba(0, 0, 0, 0.1);
+  }
+}
+
+.profiles-right-col {
+  float: right;
+  width: 62%;
+  padding-left: 13%;
+  .comn-text-area {
+    margin-top: -1.3888888888888vw;
+  }
+  h5 {
+    font-weight: 500;
+    font-size: 1.736111111111vw;
+    color: #fff;
+    span {
+      font-size: 0.97222222222vw;
+      display: block;
+      font-weight: 400;
+      padding-top: 0.3472222222222222vw;
+    }
+  }
+}
+
+@media screen and (max-width: $mqsm) {
+  .profiles-sec {
+    padding: get-vw(75) 0 get-vw(117) get-vw(0);
+    background-image: url(../images/profile-mobile-bg.png);
+    margin-top: get-vw(-244);
+
+    .profiles-right-col {
+      width: 100%;
+      padding-left: 0;
+    }
+    .prof-img {
+      display: inline-block;
+      float: none;
+      width: auto;
+      max-width: get-vw(131);
+      margin-bottom: 0;
+    }
+    .profiles-left-col {
+      width: 100%;
+      margin-top: get-vw(-25);
+      margin-left: get-vw(-1);
+      margin-bottom: get-vw(30);
+
+      h5 {
+        display: inline-block;
+        vertical-align: bottom;
+        font-size: get-vw(14);
+        line-height: get-vw(20);
+        margin-left: get-vw(11);
+        width: get-vw(87);
+        padding: 0;
+        margin-bottom: get-vw(10);
+
+        span {
+          font-size: get-vw(10);
+          line-height: get-vw(14);
+          margin-top:get-vw(2);
+        }
+      }
+    }
+    .comn-text-area {
+      margin-top: 0;
+      padding-top: get-vw(30);
+      h2 {
+        margin: 0 0 get-vw(20) 0;
+      }
+      p {
+        margin-bottom: get-vw(20);
+        max-width: 100%;
+      }
+    }
+    .button-div {
+      padding: 0 get-vw(6);
+    }
+  }
+}

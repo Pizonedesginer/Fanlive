@@ -1,0 +1,26 @@
+$mqsm: 767px;
+@function get-vw($target) {
+    // $vw-context: (320 * 0.01) ;
+    $ext: ($target/3.2)vw;
+    @return $ext;
+  }
+  
+  
+@import "./base/layout.scss";
+
+@import "./components/header.scss";
+@import "./components/compose.scss";
+@import "./components/testimonial.scss";
+@import "./components/teamjou.scss";
+@import "./components/ranking.scss";
+@import "./components/profile.scss";
+@import "./components/notre.scss";
+@import "./components/partner.scss";
+@import "./components/media.scss";
+@import "./components/footer.scss";
+
+@import "./modules/quotes.scss";
+@import "./modules/buttons.scss";
+@import "./modules/carosal.scss";
+@import "./modules/font-size.scss";
+

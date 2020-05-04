@@ -1,0 +1,47 @@
+//
+.comn-button {
+  display: inline-block;
+  padding: 0.9513888888888889vw 3.472222222222vw 0.8680555555555556vw 3.472222222222vw;
+  min-width: 24.30555555555556vw;
+  text-align: center;
+  border-radius: 4.166666666666667vw;
+  color: #fff;
+  border: 0;
+  font-size: 0.97222222222vw;
+  font-weight: 500;
+  letter-spacing: 0.03472222222222vw;
+  background: rgb(244, 181, 71); /* Old browsers */
+  background: -moz-linear-gradient(left, rgba(244, 181, 71, 1) 0%, rgba(230, 126, 34, 1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    rgba(244, 181, 71, 1) 0%,
+    rgba(230, 126, 34, 1) 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    rgba(244, 181, 71, 1) 0%,
+    rgba(230, 126, 34, 1) 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4b547', endColorstr='#e67e22',GradientType=1 ); /* IE6-9 */
+
+  -webkit-box-shadow: 0 0.69444444444444vw 2.0833333333333vw -0.69444444444444vw rgba(230, 126, 34, 0.52);
+  -moz-box-shadow: 0 0.69444444444444vw 2.0833333333333vw -0.69444444444444vw rgba(230, 126, 34, 0.52);
+  box-shadow: 0 0.69444444444444vw 2.0833333333333vw -0.69444444444444vw rgba(230, 126, 34, 0.52);
+
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+}
+
+@media screen and (max-width: $mqsm) {
+  .comn-button {
+    padding: get-vw(12) get-vw(9);
+    font-size: get-vw(12);
+    line-height:get-vw(16);
+    width: 100%;
+    border-radius: get-vw(60);
+    letter-spacing: get-vw(0.4);
+    -webkit-box-shadow: 0 get-vw(10) get-vw(30) get-vw(-10) rgba(230, 126, 34, 0.52);
+    -moz-box-shadow: 0 get-vw(10) get-vw(30) get-vw(-10) rgba(230, 126, 34, 0.52);
+    box-shadow: 0 get-vw(10) get-vw(30) get-vw(-10) rgba(230, 126, 34, 0.52);   
+  }
+}

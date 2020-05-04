@@ -1,0 +1,92 @@
+.testimonials-sec {
+  background: url(../images/stadium-bg.png) top center no-repeat;
+  background-size: 100% 100%;
+  padding-top: 15.69444444444vw;
+  padding-bottom: 3.81944444444444vw;
+  margin-top: -16.875vw;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+
+  .compose-right {
+    float: none;
+    margin-left: 0;
+    padding-right: 6.9444444444444vw;
+    width: 50%;
+  }
+  .compose-left {
+    width: 55%;
+    float: right !important;
+    margin-left: -5%;
+    margin-right: 2.5%;
+    margin-top: 5.416666666666667vw;
+  }
+  .comn-text-area p {
+    max-width: 31.80555555555556vw;
+    margin-bottom: 1.666666666666667vw;
+    font-weight: 300;
+  }
+  .quote-col {
+    padding: 5.138888888888889vw 4.205556vw 5.144444vw 8.472222vw;
+    right: 3.686111vw;
+
+    &:before {
+      content: "";
+      left: 3.105556vw;
+    }
+  }
+}
+.i_phone_a {
+  float: left;
+  width: 100%;
+
+  img {
+    width: 100%;
+  }
+}
+.comn-text-area {
+  float: left;
+  width: 100%;
+  padding-top: 2.916666666666667vw;
+  position: relative;
+  margin-top: 1.3888888888888vw;
+}
+
+@media screen and (max-width: $mqsm) {
+  .testimonials-sec {
+    padding-top: get-vw(100);
+    margin-top: get-vw(-124);
+    background: url(../images/stadium-bg.png) top center no-repeat;
+    background-size: cover;
+
+    .quote-col.quote-1 {
+      display: none;
+    }
+    .compose-right {
+      padding-right: 0;
+      width: 100%;
+      float: none !important;
+      margin-left: 0 !important;
+    }
+    .compose-left {
+      margin-top: get-vw(59.2);
+      width: 100%;
+      text-align: center;
+      margin-left: 0%;
+    }
+
+    .comn-text-area {
+      
+      p {
+        max-width:100%;
+        margin-bottom: get-vw(27);
+      }
+    }
+    .i_phone_a img {
+      width: 130.1%;
+      max-width: inherit;
+      transform: translateX(-50%);
+      margin-left: 50%;
+  }
+  }
+}

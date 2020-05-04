@@ -1,0 +1,900 @@
+@media only screen and (max-width:1800px) {
+
+.compose-left {width: 55%;}
+.right-col {width: 50%;}
+.ftr-app .applogo-banner {margin-left: -60px;}
+.partners-sec {padding: 100px 0px 60px;}
+.media-sec{padding: 80px 0px 0px;}
+.notre-sec {padding: 100px 0px 50px 0px; margin-top: 80px;}
+.title-2 h2 {font-size: 32px; padding: 35px 0 0 0px; margin: 0 0 35px 0px;}
+.comn-text-area h2 {font-size: 32px;}
+.notre-text h3 {font-size: 18px;line-height: 25px;}
+.notre-text p{font-size: 16px;}
+.profiles-left-col h5 {font-size: 22px;}
+.top10-col h4 {font-size: 16px;}
+.top10-col h4 span {font-size: 24px;}
+.testimonial-text {font-size: 18px;}
+
+.limites-sec {padding: 180px 0px 40px 0px;}
+.top-navigation ul li a {font-size: 16px;}
+.top-navigation {padding: 20px 0 0 100px;}
+/*.top10-sec {padding: 200px 0px 280px 0px;}*/
+/*.owl-nav button.owl-prev {width: 45px; height: 45px; margin-right: 15px;}
+.owl-nav button.owl-next {width: 45px; height: 45px;}*/
+.owl-nav {margin-top: 25px;}
+.testimonial-text:before {width: 60px; height: 60px;}
+.testimonial-img img {width: 100px !important; height: 100px;}
+
+.testimonial-name span {font-size: 14px; padding-top: 2px;}
+.cadeaux-sec {padding: 220px 0px 180px 0px;}
+.main-sec {padding-top: 250px; height:800px;}
+
+.batch-img img{width: 60px !important;}
+.testimonial-slide .owl-item{padding: 25px 25px 90px 35px;}
+.batch-img{width: 80px;left: 60px;}
+.testimonial-name{left: 130px;bottom: 29px;font-size: 18px;}
+
+
+
+}
+
+
+@media only screen and (max-width:1400px) {
+/*.top-banner-right {width: 45%; margin: -7% 5% 0 0;}*/
+.partner-logos {width: 102%;  margin-left: -2%;}
+
+}
+
+@media only screen and (max-width:1279px) {
+.container{max-width:991px; width:95%;}	
+.footer {padding: 100px 0 40px 0px;}
+.media-sec, .partners-sec {padding: 50px 0px;}
+.title-2 h2 {font-size: 28px;  padding: 30px 0 0 0px;  margin: 0 0 30px 0px;}
+.partner-tabbing .tab-content {padding: 60px 0 0 0px;}
+.title-2 h2:before, .comn-text-area:before {width: 72px;  height: 4px;}
+.comn-text-area h2 {font-size: 28px; margin-bottom: 20px;}
+.profiles-left-col h5 {font-size: 18px;}
+.profiles-right-col {padding-left: 50px;}
+.top10-sec {padding: 160px 0px 220px 0px;}
+.cadeaux-sec {padding: 180px 0px;}
+.comn-text-area {padding-top: 30px;  margin-top: 10px;}
+.quote-text {font-size: 14px;}
+.quote-img img {width: 80px !important;  height: 80px;}
+.quote-img {bottom: 20px;}
+.quote-text:before {left: -70px;  width: 48px; height: 40px;}
+.teamjoueurs-sec {padding: 120px 0 100px 0px; margin-top: -270px;}
+
+.applogo-banner a {margin-right: 10px; width: 140px;}
+.main-sec h1 {font-size: 30px; margin: 0 0 10px 0px;}
+.header {top: 20px;}
+.top-navigation {padding: 11px 0 0 50px;}
+.main-sec {padding-top: 150px;  height: 650px;}
+.applogo-banner {padding: 60px 100px 100px 82px; }
+.ftr-app h3 {font-size: 16px;}
+.media-post li.appinstall-box h2 {font-size: 20px; line-height: 22px;}
+.media-post li.appinstall-box h2 strong {font-size: 35px; font-weight: 600;}
+.app-logos-rec {padding: 25px 45px 25px 75px;}
+.limites-sec {padding: 150px 0px 50px 0px;}
+.compose-sec {padding-top: 50px;}
+.top-banner-right {width: 50%; margin: -6% 0% 0 0;}
+.top-navigation ul li a {font-size: 14px;}
+.button-div {padding-top: 20px;}
+music-img img {margin-top: 0;}
+.right-col {padding: 0;}
+.media-post li i.media-icon {left: -30px; top: -30px; width: 80px;}
+.ftr-link li {margin: 0 10px;}
+.ftr-link li a {font-size: 13px;}
+.ftr-app .applogo-banner {padding: 60px 80px 80px 80px;}
+.footer-left {padding: 140px 0 0 0;}
+.notre-text { padding: 15px;}
+.notre-text h3 {font-size: 15px;}
+p {font-size: 13px;}
+.owl-nav button.owl-prev {width: 70px; height: 70px; }
+.owl-nav button.owl-next {width: 70px; height: 70px;}
+.top10-col {padding: 15px;}
+.top10-col h4 span {font-size: 20px;}
+.top10-col h4 {font-size: 14px;}
+.testimonials-sec {margin-top: -280px;}
+.quote-col.quote-1 {top: -320px;}
+.main-sec p {font-size: 13px; line-height: 24px; margin-bottom: 15px;}
+.toper-name {width: 30%;}
+.testimonial-img img {
+    width: 80px !important;
+    height: 80px;
+}
+.testimonial-img {bottom: 30px;}
+.batch-img {bottom: 30px; width: 40px; left: 60px;}
+.testimonial-name {left: 120px; font-size: 16px;}
+.testimonial-box {padding: 40px 20px 60px 50px;}
+.quote-col {width: 500px; height: 210px; padding: 50px 80px 40px 140px;}
+}
+
+
+
+@media only screen and (max-width:991px) {
+.main-logo-area {width: 25%;}
+.container{width:100%; max-width:95%;} 
+/*======= MOBILE MENU CSS =======*/
+.header .overlay_menu{ background: #fff; height: 100%; width: 100%; opacity: 0;  top:38%;; left: 0; position: fixed; padding: 0; transition: opacity .5s; -webkit-transition: opacity .5s; z-index: -99; display: none;}
+.header .overlay_menu.active {/*opacity: 0.7; */display: block;  z-index:100;}
+.header .menu-icon{ width: 32px;  height: 26px; display:block; float: right; background: url('../images/menu-icon.png') no-repeat; margin-top: 15px; background-size:100%;}
+.header .menu-icon.active {  background: url('../images/cross.png') no-repeat; background-size:100%; width:26px;  height: 26px;}
+.header .top-navigation{ position:fixed; right: -100%; top :38%; width:100%;  z-index:888; transition: 400ms right; -webkit-transition: 400ms right;  -moz-transition: 400ms right;   -o-transition: 400ms right; padding:15px 15px 60px 15px; background:#011f3f; z-index: 999;}
+.header .top-navigation.openMenu{right: 0;}
+.header .header-right-col .top_nav{display:none;}
+.header .header-right-col .top-navigation .top_nav{display:block; width:100%;}
+/*======= MOBILE MENU CSS END =======*/
+
+.header {top: 0; padding: 15px 0px; }
+.header .top-navigation ul li a {color: #fff !important; padding-left: 15px; font-size:16px !important;}
+.top-navigation ul li {width: 100%; margin:0px; padding:15px;}
+.header .top-navigation ul li.active a:after, .header .top-navigation ul li:hover a:after {bottom: -2px !important; height: 20px !important; background: #fff !important;  width: 4px; left: 0;}
+.top-banner-left {width: 100%; padding-right: 50px;}
+.main-sec h1 {font-size: 18px; margin: 0 0 5px 0px;}
+/*.applogo-banner, .quote-col{display:none;}*/
+.top-banner-right {width: 100%; margin: 0; text-align:center;}
+
+.partner-logo-sec {padding-top: 250px; text-align: center;}
+
+
+.testimonials-sec {padding-top: 120px;}
+.teamjoueurs-left { padding-top:50px;}
+.left-col {width: 100%;}
+.right-col {width: 100%; padding-top: 50px;}
+.limites-sec {padding: 50px 0px;}
+.music-img img {margin-top: 0;}
+}
+
+
+
+
+@media only screen and (max-width:1650px) {
+
+
+	.main-sec{padding-top: 220px;}
+	.main-sec h1{font-size: 40px;}
+	.top-banner-right{width: 52%;}
+	.top-banner-left{width: 52%;}
+	.main-sec p{font-size: 18px; line-height: 28px;}
+	.applogo-banner{padding: 70px 50px 180px 70px; }
+	.applogo-banner a{margin-right: 15px;width: 42%;}
+	.common-inner-padding{padding-left: 150px;}
+	/*.applogo-banner a img{height: 60px}*/
+	.comn-text-area p{font-size: 18px; line-height:line-height: 1.7; }
+	.testimonials-sec{margin-top: -360px;padding-top: 230px;}
+	.quote-img img{width: 120px !important;height: 120px;}
+	.quote-text{ font-size: 20px; width: 80%}
+	.quote-1 .quote-text{ font-size: 19px; width: 65%;}
+	.quote-text:before{width: 68px;height: 68px;left: -86px;top: -27px;}
+	.quote-col{background-size: 90%;padding: 80px 50px 80px 160px;}
+	.quote-img{bottom: 5px;}
+	.quote-col.quote-1{top: -365px;}
+
+	.comn-text-area p{font-size: 15px; font-weight: 400; line-height: 26px;}
+	.button-div{padding-top: 60px;}
+
+	.teamjoueurs-sec{padding: 220px 0 100px 0px;margin-top: -365px;}
+	.comn-button{padding: 13px 80px;font-size: 18px;}
+
+	.groups-img img{width: 170px;}
+	.groups-list li h3{font-size: 17px;}
+	.groups-list li p{font-size: 16px;}
+	.groups-list li h3:after{width: 100px; height: 4px;}
+	.applogo-banner-text h3{font-size: 20px;}
+	.applogo-banner-text{margin-top: 20px;}
+
+	.partner-tabbing .nav-tabs > li a{font-size: 18px;}
+	.partner-tabbing .nav-tabs > li a:hover:after, .partner-tabbing .nav-tabs > li.active a:after{width: 100px;}
+	.media-post li i.media-icon{left: -59px;top: -48px;width: 120px;}
+
+	.ftr-app h3{font-size: 30px;padding-left: 50px;}
+	.ftr-link{padding-left: 50px;}
+	.ftr-link li{margin: 0 20px;}
+	.ftr-link li a, .ftr-link li{font-size: 15px;}
+
+	.testimonials-sec .compose-left{width: 58%;}
+
+	.partner-logo-sec {margin-top: -20px;}
+	
+	.uniqu-pad01{padding: 0px 4% 10px 0px;}
+	.uniqu-pad02{padding: 0px 0px 10px 4%;}
+
+	.uniq-width {width: 82%;}
+
+	.testimonial-text:before{left: -88px;}
+	.testimonial-text{font-size: 17px;}
+	.testimonial-box {padding: 40px 60px 80px 60px;}
+	.testimonial-name{bottom: 38px;}
+	.testimonial-slide .owl-item {padding: 25px 25px 80px 35px;}
+
+	.profiles-sec{padding: 200px 0 200px 0px;}
+	.footer-logo{ width: 180px;}
+
+	.footer .applogo-banner a{width: 45%;}	
+	.compose-right{ padding-right: 50px;}
+
+	.partner-tabbing .nav-tabs > li{width: auto;white-space: nowrap;}
+	.notre-img{ height: 200px;}
+
+	.app-logos-rec { padding: 22px 35px 75px 80px; }
+
+	.gameslide-buttons a img{ width: 175px !important; }
+	.media-post li.appinstall-box{padding-bottom: 3%;}
+
+	.quote-col{bottom: -208px;}
+
+
+	.ftr-app .applogo-banner{padding: 70px 65px 180px 108px;}
+
+}
+
+
+@media only screen and (max-width:1440px) {
+
+	.top-banner-left{width: 52%;}
+	.main-sec h1 {font-size: 36px;}
+	.applogo-banner {margin:0px 0px 0px -34px;}
+	/*.applogo-banner a img {height: 60px;}*/
+	.applogo-banner a{width:41%;}
+	.partner-logo-sec{margin-top: -90px;}
+	.common-inner-padding{padding-left: 120px;}
+	.quote-text{font-size: 18px; width:72%;}
+	.quote-col{padding: 80px 180px 80px 150px;background-size: 85%; margin-left:56px;}
+	.quote-text:before {width: 50px;height: 50px;left: -65px;}
+	.quote-img img {width: 110px !important;height: 110px;}
+	.testimonials-sec {margin-top: -325px;padding-top: 210px;}
+	.comn-text-area h2, .title-2 h2 {font-size: 28px;}
+	.comn-text-area p{font-size: 16px;}
+	.button-div{padding-top: 40px;}
+	.teamjoueurs-sec {padding: 200px 0 100px 0px;margin-top: -340px;}
+	.quote-col{bottom: -200px;height: 290px; width: 700px;padding: 75px 180px 80px 150px;}
+	.quote-img {bottom: 38px; left:15px;}
+	.comn-text-area h2{margin: 0 0 30px 0px;}
+	.groups-img img {width: 180px;}
+	.left-col{width: 48%;}
+	.right-col{width: 52%; padding-left: 30px;}
+	.applogo-banner {padding: 60px 61px 160px 70px;}
+	.limites-sec{padding: 180px 0px 20px 0px;}
+	.testimonial-text {font-size: 16px;}
+	.testimonial-box {padding: 40px 10px 50px 50px;}
+	.profiles-sec .container {max-width: 90%; width: 100%}
+	
+
+	.testimonial-text:before {width: 40px;height: 40px;left: -60px;}
+	.testimonial-name{font-size: 16px;font-size: 12px;}
+	.ftr-link {padding-left: 0;}
+
+	.quote-1 .quote-text{width: 90%;}
+
+	.quote-col.quote-1 {top: -310px;}
+	.testimonials-sec .compose-left {width: 60%;margin-left: -5%;}
+	.quote-text:before {width: 55px;height: 55px;left: -80px;}
+	.quote-text{width: 90%}
+	.groups-list li p{font-size: 14px;}
+
+	.testimonial-img img {width: 90px !important;height: 90px;}
+	
+	.top-banner-right {width: 50%;}
+
+	.quote-col.quote-1 .quote-text{width: 80%;}
+
+	.applogo-banner-text h3{padding-bottom: 12px;}
+	.applogo-banner a {width: 42%;}
+
+	.cadeaux-sec h3{font-size: 18px;line-height: 1.4;}
+	.comn-button{padding: 12px 100px;}
+
+	.top10-sec{padding: 140px 0px 210px 0px;}
+	.profiles-sec {padding: 180px 0 150px 0px;}
+	.title-2 h2{padding: 50px 0 0 0px;}
+	.media-post li i.media-icon {left: -52px;top: -45px;width: 110px;}
+
+	
+	.footer-logo {width: 150px;}
+	.footer-left{width: 250px;}
+	.footer-right{width: calc(100% - 270px);}
+
+	.ftr-app .applogo-banner{padding: 70px 40px 170px 120px;}
+
+	.ftr-app h3 {font-size: 26px;padding-left: 50px;}
+	.footer{padding: 130px 0 40px 0px;}	
+	.footer-social{margin-top: 20px;}
+	.footer .applogo-banner a {width: 42%;}
+
+	.appinstall-box2 .appinstall-dtl h2 strong {font-size: 50px;}
+	.appinstall-box2 .appinstall-dtl h2{font-size: 25px;}
+
+	.gameslide-buttons a img{ width: 160px !important; }
+	.gameslide-buttons a:first-child {margin-bottom: 5px;}
+    .app-logos-rec { padding: 22px 35px 68px 80px; }
+
+	.media-post li.appinstall-box{padding-bottom: 1.8%;}
+
+}
+
+@media only screen and (max-width:1366px) {
+
+	.top-navigation {padding: 20px 0 0 70px;}
+	.main-sec h1 {font-size: 35px;}
+	.main-sec p {font-size: 16px;}
+	.top-banner-right {width: 48%;margin: -7% -10% 0 0;}
+	.common-inner-padding {padding-left: 100px;}
+	
+	.teamjoueurs-sec {padding: 200px 0 100px 0px;margin-top: -300px;}
+	.footer{padding: 100px 0 40px 0px;background-size: 100% 100%;}
+	.ftr-link li {margin: 0 15px;}
+	.ftr-app .applogo-banner{padding: 90px 100px 200px 150px;}
+	.media-sec{padding-bottom: 0;}
+	.main-sec{padding-top: 200px; height: 700px;}
+
+	.quote-col{width: 600px;padding: 75px 100px 80px 140px;background-size: 100%;}
+	.quote-text{font-size: 17px;}
+
+	.quote-col.quote-1 {top: -320px;}
+	.quote-img img {width: 100px !important;height: 100px;}
+
+	.compose-right{width: 55%;}
+	.testimonials-sec .compose-left {width: 59%;}
+
+	.comn-button{padding: 12px 80px;font-size: 18px;}
+	.comn-text-area p {font-size: 14px;line-height: 25px;}
+	.button-div {padding-top: 20px;}
+
+	.applogo-banner a {width: 45%;}
+	.applogo-banner {padding: 55px 61px 150px 70px;}
+	.main-sec  .applogo-banner{background-size: 100%;padding: 70px 61px 160px 70px;}
+	.main-sec .applogo-banner a {width: 42%;}
+
+
+	.compose-right {width: 50%;}
+	.applogo-banner-text h3 {font-size: 20px;}
+	.left-col {width: 45%;}
+	.right-col {width: 55%;padding-left: 30px;}
+	.cadeaux-sec h3{font-size: 18px; line-height: 1.4}
+	.notre-text p {font-size: 15px;}
+	.notre-text h3 {font-size: 16px;line-height: 21px;}
+	.testimonial-name {left: 120px;bottom: 40px; font-size: 14px;}
+	.partner-logo-sec {margin-top: -16px;}
+
+	.footer .applogo-banner a img{height: auto;}
+	.footer .applogo-banner a{width: 45%;}
+	.ftr-app .applogo-banner {padding: 70px 60px 170px 120px;}
+	
+	.fix-width {width: 95%;}
+
+	.testimonials-sec{margin-top: -320px;}
+	.testimonial-box {padding: 40px 50px 50px 50px;}
+   	
+	
+	.footer-social{margin-top: 15px;}
+
+	.partner-logo-sec ul li a img{ width: 80%; }
+    .media-post li.appinstall-box{padding-bottom: 1.2%;}
+
+
+}
+@media only screen and (max-width:1280px) {
+
+.app-logos-col {margin-top: 20%;}
+}
+
+@media only screen and (max-width:1279px) {
+
+	.header.header-sticky .top-navigation ul li a{font-size: 14px;}
+	.top-banner-right{margin: -7% -5% 0 0;}
+	.main-sec {padding-top: 180px;height: 650px;}
+	.main-sec h1 {font-size: 30px;}
+	.testimonials-sec {margin-top: -285px;padding-top: 200px;}
+	.teamjoueurs-sec {padding: 130px 0 100px 0px;margin-top: -272px;}
+	.compose-right {width: 55%;}
+	.testimonials-sec .compose-left {width: 55%;}
+	.comn-text-area h2, .title-2 h2 {font-size: 26px;}
+	.comn-text-area h2 {margin: 0 0 20px 0px;}
+	.quote-col {width: 550px;padding: 70px 80px 80px 130px;background-size: 100%;}
+	.quote-img {bottom: 35px;}
+	.quote-col {bottom: -222px;}
+	.groups-list li p {font-size: 15px;}
+	.groups-img img {width: 160px;}
+	.applogo-banner-text {margin-top: 20px;}
+	.groups-list li{    padding: 0px 10px 10px 10px;}
+
+	.cadeaux-sec h3{font-size: 16px;}
+
+	.testimonial-text {font-size: 15px;}
+	.testimonial-img img {width: 70px !important;height: 70px;}
+	.testimonial-slide .owl-item {padding: 25px 25px 80px 25px;}
+
+	.partners-sec .title-2 p, .title-2 p{font-size: 16px;}
+	.partner-tabbing .nav-tabs > li a {font-size: 18px;}
+	.partner-tabbing .nav-tabs > li a:hover:after, .partner-tabbing .nav-tabs > li.active a:after {width: 80px;height: 5px; bottom: -20px;} 
+	.partner-logos li{padding: 30px 25px;}
+	.media-post li i.media-icon {left: -50px;top: -40px;width: 100px;}
+
+
+	.footer-left{width: 270px;}
+	.ftr-app .applogo-banner {padding: 60px 70px 150px 100px;}
+	.footer-right{width: calc(100% - 280px);}
+	.ftr-app h3 {font-size: 25px;padding-left: 30px;}
+	
+	.ftr-link li a, .ftr-link li {font-size: 14px;}
+	.ftr-link li {margin: 0 10px;}
+	.compose-right {width: 53%;}
+    
+
+	.appinstall-box2 .app-logos-rec{padding-bottom: 30px;}
+
+	.gameslide-buttons a img{ width: 130px !important; }
+
+}
+
+@media only screen and (max-width:1199px) {
+
+	.main-sec .applogo-banner {background-size: 90%;}
+	.applogo-banner {padding: 60px 50px 180px 80px;}
+	.main-sec{height: auto;}
+	.top-banner-right {margin: -12% 0% 0 0;}
+	.quote-col{width: auto;padding: 42px 80px 80px 130px;bottom: -240px;}
+	.comn-button {padding: 11px 80px;    font-size: 16px;}
+
+	.profiles-sec .container{width: 100%; max-width: 80%}
+	.profiles-sec{padding: 150px 0 120px 0px;}
+
+	.compose-right{ padding-right: 0 }
+
+	.appinstall-box2 .appinstall-dtl h2 {font-size: 22px;line-height: 25px;}
+
+
+	.main-sec .applogo-banner{padding: 58px 61px 160px 52px;}
+	.main-sec .applogo-banner a {width: 40%;}
+	.quote-col.quote-1 .quote-text {width: 100%; font-size: 18px; line-height: 25px;}
+	.quote-text {width: 100%;}
+	.quote-img img {width: 90px !important;height: 90px;}
+	.quote-img {bottom: 55px;}
+
+	.quote-text {font-size: 16px;line-height: 24px;}
+
+	.testimonial-text {font-size: 14px;}
+	.testimonial-text br{display: none;}
+
+	.partner-tabbing .nav-tabs > li{margin: 0px 50px 0 0 !important; width: auto; white-space: nowrap;}
+	.media-post li.appinstall-box{padding-bottom: 3.6%;}
+
+
+
+}
+
+@media only screen and (max-width:991px) {
+
+	.header-sticky .menu-icon{ background-image: url(../images/menu-icon-color.png); }
+	.header-sticky .menu-icon.active{background-image: url(../images/cross-color.png);  }
+	.header-sticky .top-navigation{ top: 85px; }
+
+	.header.header-sticky .top-navigation ul li a:hover:after, .header.header-sticky .top-navigation ul li a.active:after{background: #fff;left: 0;width: 3px;height: 22px; top: 0}
+
+	.top-navigation ul li a:hover:after, .top-navigation ul li a.active:after{background: #fff;left: 0;width: 3px;height: 22px; top: 0}
+
+
+	.main-sec{background-size: cover; padding-top: 200px;}
+	.applogo-banner{margin-left: -20px;padding: 50px 50px 150px 50px;}
+	.applogo-banner a{width: 120px;}
+	.applogo-banner a img{height: 42px;}
+
+	.top-banner-left{ padding-right: 0}
+	.top-banner-right img{width: 90%}
+	.partner-logo-sec{padding-top: 20px;}
+	.common-inner-padding{padding-left: 0}
+	.testimonials-sec {margin-top: -265px; padding-top: 200px;}
+	.compose-right {width: 52%;}
+	
+	.teamjoueurs-sec{margin-top: -28%;padding: 50px 0 50px 0px;}
+	.comn-text-area p {font-size: 15px;line-height: 25px;}
+	.testimonials-sec .compose-right{padding-right: 0; width: 100%;float: none;}
+
+	.testimonials-sec .compose-left {width: 100%;margin-left: 0%;}
+
+	.quote-text, .quote-col.quote-1 .quote-text {font-size: 16px; }
+	.quote-img {bottom: 60px;}
+	.quote-col{left: 35%;padding: 50px 50px 80px 100px;}
+	.quote-col.quote-1 {top: -18%;}
+	.quote-img img {width: 90px !important;height: 90px;}
+	.quote-text:before{width: 40px;height: 40px;left: -45px;}
+	.teamjoueurs-sec {margin-top: -42%;}
+
+	
+	.main-sec .applogo-banner {background-size: 100%;}
+	.left-col{width: 100%;}
+	.right-col{padding-left: 0; width: 100%; padding-top: 0}
+	.profiles-sec .container{width: 100%; max-width: 95%}
+	.app-logos-rec {padding: 10px 25px 25px 50px;}
+	.applogo-banner.applogo-banner-text.mobile-none{ display: none; }
+	.left-col{margin-bottom: 60px; }
+	/*.applogo-banner.showonlymobile{display: block; margin-bottom: 60px}*/
+	.cadeaux-sec .left-col {width: 45%;}
+	.cadeaux-sec .right-col {width: 55%;}
+	.testimonial-slide{margin-top: 0}
+	.testimonial-slide{height: 370px;}
+	.partner-tabbing .nav-tabs > li{margin-right: 35px !important;float: none;display: inline-block;}
+	.applogo-banner{margin-left: 0}
+   	.ftr-app .applogo-banner {padding: 60px 70px 125px 100px;}
+	.gameslide-buttons a img{ width: 135px !important; }
+	.partner-tabbing .nav-tabs {overflow-x: scroll;white-space: nowrap;padding-bottom: 30px;}
+
+	.testimonial-text{width: 160px;}
+
+	.media-post li.appinstall-box {padding-bottom: 2%;}
+
+}
+
+@media only screen and (max-width:850px) {
+
+	.gameslide-buttons a img{ width: 110px !important; }
+
+}
+
+@media only screen and (max-width:768px) {
+	.main-sec{background-size: contain;padding-top: 200px;background-image: url(../images/mobile-header-bg02.png);}
+	.changbannner{ background-image: url(../images/menu-bg02.png) !important;}
+	.top-banner-right img {width: 100%;}
+	.main-sec .applogo-banner{ padding: 44px 60px 140px 50px;margin-left: -25px;}
+	.applogo-banner a img { height: auto; }
+	.main-sec .applogo-banner a {width: 47%;margin-right: 7px;}
+    .top-banner-right {margin: -5% 0% 0 0;}
+	.top-banner-right .mobile-none{ display: none; }
+	.top-banner-right .showonlymobile{display: block !important;}
+	.fix-width {width: 100%;}
+	.partner-logo-sec {text-align: left;}
+	
+
+	
+	.quote-col.quote-1{display: none;}
+
+	.compose-left, .compose-right{width: 100%;}
+	.testimonials-sec {margin-top: -57%;padding-top: 120px;}
+
+	.teamjoueurs-sec{padding: 100px 0}
+	.quote-col {left: 30%;padding: 50px 50px 80px 100px;bottom: -285px;}
+	.testimonial-slide .owl-item {padding: 25px 3px 80px 0px;}
+	.testimonial-text {width: 170px;}
+
+	.profiles-left-col{margin-left: 0; width: 33%;}
+	.comn-button {padding: 11px 70px;font-size: 16px;}
+	.profiles-right-col {padding-left: 20px;}
+	.partner-tabbing .nav-tabs > li {margin-right: 30px !important;float: none;display: inline-block;}
+	.partner-tabbing .nav-tabs{overflow-x: scroll; white-space: nowrap; padding-bottom: 30px; }
+	.footer-social a span{height: 45px;line-height: 45px;width: 45px; font-size: 21px;}
+	.footer-social a{margin-right: 10px;}
+	.footer-left {width: 230px;}
+	.footer-right {width: calc(100% - 250px);}
+
+
+	.header .top-navigation, .header .overlay_menu.active{top: 165px;}
+	/*.changbannner .top-banner-right , .changbannner .top-banner-left{ opacity: 0; }*/
+	.app-logos-col h3{font-size:15px;}
+
+	
+	.partner-logo-sec ul li{width: 17%}
+	.media-post li.appinstall-box{padding-bottom: 18px;}
+
+
+	
+
+
+}
+
+
+@media only screen and (max-width:767px) {
+
+	.partner-logos{width: 104%; margin-left: 0}
+
+	.main-sec{background-size: contain;padding-top: 200px;background-image: url(../images/mobile-header-bg.png);}
+	.changbannner{ background-image: url(../images/menu-bg.png) !important;}
+	.mobile-none{display: none;}
+	
+
+	.main-sec h1 {font-size: 26px;}
+	.main-sec p {font-size: 15px;line-height: 25px;}
+
+	.compose-left {width: 100%; text-align: center; float: none;}
+	.compose-right{width: 100%;}
+	.testimonials-sec {margin-top: -57%;padding-top: 120px;}
+
+	.comn-text-area h2, .title-2 h2 {font-size: 28px;}
+	.comn-text-area p {font-size: 18px;line-height: 30px;}
+
+	.title-2 h2:before, .comn-text-area:before {width: 100px;height: 6px;}
+
+	.testimonials-sec .compose-right{padding-right: 0}
+	.testimonials-sec .compose-left{width: 100%; text-align: center; float: none;}
+
+	.teamjoueurs-sec{padding: 30px 0 120px 0px;	}
+	.teamjoueurs-left{width: 100%;}
+
+	
+	.teamjoueurs-right{width: 100%; padding-left: 0}
+
+	.top-banner-left{width: 100%;}
+	.top-banner-right{margin: 0; width: 100%;}
+
+	.profiles-left-col{width: 100%; margin-top: 30px; margin-left:0%;}
+	.profiles-right-col{width: 100%; padding-left:  0}
+	.profiles-left-col h5{margin-bottom: 30px; display: inline-block; vertical-align: bottom; font-size: 22px; padding-left: 30px;}
+	.profiles-left-col h5 span{font-size: 15px;}
+
+
+
+	.footer{background-image: url(../images/mobile-footer.png);padding: 80px 0 40px 0px;margin-top: -12%;}
+	.footer-right{width: 100%;}
+	.footer-left{width: 100%; padding-top: 100px;}
+	.footer-social{display: none;}
+	.footer-logo{width: 100%; float: none;}
+	.ftr-app .applogo-banner{background-image: none; padding: 0; float: none;width: 100%; text-align: center;margin-left: 0}
+	.ftr-app .applogo-banner a{display: inline-block;float: none; width: 46%;}
+	.ftr-app .applogo-banner a img{height: auto;max-width: 100%;}
+	.ftr-app{text-align: center; float: none;}
+	.ftr-app h3{ padding-bottom: 40px; font-size: 28px; padding-left: 0}
+	.ftr-link{display: none;}
+	.showonlymobile{display: block;}
+
+	.media-sec{background-color: #f7f7f7;}
+	.media-sec, .partners-sec{padding: 80px 0px;}
+	.title-2 h2{color: #3d3d3d}
+	.title-2 p{color: #3d3d3d; font-size: 18px;}
+	.title-2 p br{display: none;}
+	.mediapost-code{display: none;}
+	.media-post li, .media-post li.insta-post{margin: 0; box-shadow: none; background-color: transparent; width: 50%; text-align: center; padding: 0 25px;}
+	.media-post li i.media-icon{position: unset;}
+	.media-post li.appinstall-box{display: none;}	
+
+	.socialmedia-wrap{margin-top: 40px;}
+
+	.partner-logo-sec{padding-top: 0}
+	.quote-col.quote-1{display: none;}
+
+	
+
+	.comn-button{width: 100%; text-align: center;padding: 15px 20px; font-size: 20px;}
+	.quote-col{left: 0; bottom: -28%; padding: 70px 80px 80px 150px; margin-left: 0}
+	.quote-text{font-size: 20px;}
+	.quote-text:before{width: 70px;height: 70px;left: -85px;top: -15px;}
+	.quote-img {bottom: 13px;}
+
+	.left-col{margin-bottom: 60px; }
+	.right-col{ float: none;}
+	.groups-list{display: block; float: none;}
+	.groups-list li{ display: block;margin-bottom: 20px; width: 100%; float: none !important; padding-right: 0 }
+	.groups-img{float: none;width: 200px; display: inline-block; vertical-align: top; margin-top: -8%;}
+	.groups-img img{width: 100%;}
+	.groups-content{display: inline-block; width: calc(100% - 170px); vertical-align: top; margin-left: -10%}
+
+	.groups-list li h3 {font-size: 22px; font-weight: 800}
+	.groups-list li p {font-size: 18px;}
+
+	.cadeaux-sec {padding: 130px 0px;}
+
+
+	.cadeaux-sec .left-col {width: 100%;}
+	.cadeaux-sec .right-col {width: 100%;}
+	.testimonial-slide{margin-top: 0}
+	.cadeaux-sec h3 br{display: none;}
+
+	.top10-sec .title-2 h2, .notre-sec .title-2 h2{ color: #fff; }
+
+	.profiles-sec{background-image: url(../images/profile-mobile-bg.png);}
+	.notre-sec:before{width: 50%;}
+	.notre-slide .owl-nav{display: none;}
+	.partner-logos li{padding: 22px 13px; border-radius: 30px;}
+
+	.partners-sec{padding-bottom: 50px}
+	.top-banner-right img{width: 100%;}
+
+	.comn-text-area {padding-top: 40px;margin-top: 10px;}
+	.comn-text-area h2{margin-bottom: 30px;}
+	.applogo-banner.showonlymobile {/*margin-bottom: 40px;*/text-align: center;}
+	.compose-sec{ padding-top: 70px; }
+
+	.teamjoueurs-right{margin-bottom: 40px;}
+	.uniq-width, .uniq-width02{width: 100%;}
+
+	.button-div{padding-top: 50px; padding-bottom: 20px;}
+
+
+	.notre-box{width: 300px;}
+	.notre-slide{height: 500px;}
+	.notre-slide .owl-item{padding: 0 0px 20px;}
+
+	.notre-slide{margin-left: 0;  width: auto;}
+
+	.cadeaux-sec, .teamjoueurs-sec{background-image: url(../images/iphone-blue-bg.png);}
+	.top10-sec{background-image: url(../images/cadeaux_iphone_bg.png);padding: 100px 0px 240px 0px; }
+	.cadeaux-sec {padding: 100px 0px 130px;}
+
+	.partner-logo-sec {margin-top: 20px;}
+
+	.gameslide-buttons a img{ width: 70% !important; }
+	.media-post li:first-child{width: 50%;}
+
+	.header .top-navigation, .header .overlay_menu.active {top: 140px;}
+
+	.media-post li i{display: block;width: 100% !important;}
+	.media-post li:nth-child(odd) i img{margin-right: -20%}
+	.media-post li:nth-child(even) i img{margin-left: -20%}
+	.media-post li i img{width: 100%;}
+
+
+	.header-sticky .top-navigation{ top: 85px !important; }
+
+}
+
+@media only screen and (max-width:640px) {
+
+	.ftr-app .applogo-banner a img{ height: 55px }
+	.main-logo-area {width: 30%;}
+	.main-sec{padding-top: 150px;}
+	.partner-logo-sec{padding-top: 0}
+	
+	.applogo-banner.showonlymobile a img{height:60px; width: auto}
+    .partner-logo-sec {text-align: center;}
+	.applogo-banner.showonlymobile h3{padding-bottom: 30px;font-size: 26px; font-weight: 500}
+
+	.quote-text:before{width: 50px;height: 50px;left: -62px;top: -15px;}
+	.quote-text {font-size: 18px; line-height: 26px;}
+	.quote-img {bottom: 30px;}
+	.quote-col{padding: 50px 50px 80px 120px;bottom: -32%;}
+   	.notre-text p {font-size: 12px;}
+	.applogo-banner.showonlymobile{display: block; }
+
+	.comn-text-area h2, .title-2 h2 {font-size: 28px;}
+	.comn-text-area p{font-size: 16px; line-height: 28px;}
+	.comn-button{padding: 12px 20px;font-size: 18px;}
+
+	.prof-img{display: inline-block;float: none;width: auto}
+	.prof-img img{width: 240px;height: 280px;object-fit: cover;object-position: top; border-radius: 20px;}
+	.profiles-left-col h5{font-size: 22px; width: calc(100% - 250px); font-weight: 600}
+	.profiles-sec {padding: 120px 0 100px 0px;}
+    .notre-text h3 {font-size: 14px;}
+	.notre-sec:before{width: 75%;}
+	.partner-tabbing .tab-content{padding-top: 40px;}
+	.cadeaux-sec {padding: 70px 0px 130px;}
+    .top10-sec{padding: 80px 0px 240px 0px; }
+	.partners-sec{padding-bottom: 30px}
+	.testimonial-slide .owl-item {padding: 25px 3px 80px 0px;}
+    .notre-box{width: 270px;}
+	.testimonial-text{width: 150px;}	
+
+	.button-div{padding-top: 30px; padding-bottom: 10px;}
+
+	.top10-slide .owl-carousel .owl-item img{ width: 300px; }
+
+	.partner-logo-sec ul li{width: 17%; margin-right: 5px;}
+	.header .menu-icon.active{width: 20px;height: 20px;}
+
+	.groups-list li h3:after{height: 4px; width: 165px;}
+
+	.testimonial-box {padding: 30px 40px 60px 50px;}
+	.testimonial-text:before{ top: 0 }
+	.testimonial-img img {width: 80px !important;height: 80px;}
+	.testimonial-img{left: -12px;}
+	.testimonial-name{left: 110px;bottom: 45px;}
+
+	.notre-sec:before{border-radius: 0px 70px 70px 0px;}
+
+
+	.header.header-sticky .main-logo-area{ width: 140px; }
+	.header-sticky .top-navigation{ top: 80px !important; }
+	.header-sticky .top-navigation {top: 78px !important;}
+
+}
+
+@media only screen and (max-width:480px) {
+
+	.ftr-app .applogo-banner a img{ height: 50px }
+
+	.mobile-copyright{font-size: 13px;}
+	.main-sec{padding-top: 130px;}
+
+	.applogo-banner.showonlymobile h3{padding-bottom: 20px;font-size: 22px; font-weight: 500}
+	.applogo-banner.showonlymobile{padding: 30px 25px 30px;}
+
+
+	.comn-text-area p{font-size: 16px;}
+	.applogo-banner.showonlymobile a img{height:50px; width: auto}
+
+	.quote-img{bottom: 33%;}
+	.teamjoueurs-sec{padding: 30px 0 180px 0px; }
+	.quote-col{bottom: -42%;padding: 40px 30px 80px 90px;}
+
+	.quote-img img {width: 70px !important;height: 70px;}
+    .notre-sec:before{width: 65%;}
+
+	.left-col{margin-bottom: 40px; }
+	.groups-img{width: 160px;}
+	.groups-img img{width: 100%;}
+	.groups-content{display: inline-block; width: calc(100% - 130px); vertical-align: top; margin-left: -12%}
+	.groups-list li h3 {font-size: 20px; font-weight: 800}
+	.groups-list li p {font-size: 15px;line-height: 23px;}
+
+	.comn-text-area h2, .title-2 h2 {font-size: 24px; font-weight: 700;}
+	.applogo-banner.showonlymobile{margin-top: 30px;}
+
+
+	.prof-img img{width: 180px;height: 200px;object-fit: cover;object-position: top; border-radius: 10px;}
+	.profiles-left-col h5{font-size: 18px; width: calc(100% - 190px); padding-left: 15px;}
+	.profiles-left-col h5 span {font-size: 13px; line-height: 20px;}
+	.comn-button {padding: 12px 15px;font-size: 16px;}
+
+	
+	.media-post li, .media-post li.insta-post{padding: 0 10px;}
+
+	.partner-tabbing .nav-tabs > li{width: 250px;}
+
+	.button-div{padding-top: 20px; padding-bottom: 10px;}
+	.limites-sec {padding: 150px 0px 20px 0px;}
+
+	.notre-box{width: 270px;}
+	.notre-slide{height: 450px;}
+	
+
+	.footer-logo {width: 250px;}
+
+	.header .top-navigation, .header .overlay_menu.active {top: 115px;}
+
+	.title-2 h2:before, .comn-text-area:before {width: 85px;height: 6px;}
+	.quote-text {font-size: 16px;line-height: 23px;}
+	.quote-text:before {width: 50px;height: 50px;left: -65px;top: -6px;}
+
+	.groups-list li h3:after{height: 4px; width: 140px;}
+	.groups-list li h3{margin-bottom: 15px;}
+
+	.partner-logos .owl-stage-outer{width: 105%;}
+
+
+}
+@media only screen and (max-width:400px) {
+
+	.mobile-copyright{font-size: 16px;}	
+
+	.teamjoueurs-sec {padding: 30px 0 150px 0px;}
+	.applogo-banner.showonlymobile a img{width: 100%; height: auto;}
+	.applogo-banner.showonlymobile a {width: 45%;}
+	.quote-col{background-size: 100% 100%;  height: auto; padding: 40px 32px 70px 75px;bottom: -27%;}
+	.quote-img {bottom: -2%;}
+	.quote-text:before {width: 40px;height: 40px;left: -56px;top: -4px;}
+
+	.left-col{margin-bottom: 50px; }
+	.groups-img{width: 120px;}
+	.groups-content{display: inline-block; width: calc(100% - 80px); vertical-align: top; margin-left: -17%}
+	.groups-list li h3 {font-size: 18px; font-weight: 800; margin-bottom: 15px;}
+	.groups-list li{margin-bottom: 10px;}
+	.groups-list li p {font-size: 15px;}
+	.groups-list li h3:after{width: 80px;}
+	.footer{    margin-top: -19%;}
+
+	.main-sec h1 {font-size: 24px; line-height: 32px; margin-bottom: 10px;}
+	.main-sec p {font-size: 14px;line-height: 22px; font-weight: 400}
+	.main-sec {padding-top: 120px;background-size: 100% 72%;}
+	.comn-text-area h2, .title-2 h2 {font-size: 24px;}
+	.comn-text-area{padding-top: 30px;}
+	.comn-text-area h2{margin-bottom: 20px;}
+	.comn-text-area p {font-size: 14px; line-height: 25px; font-weight:400;}
+	.testimonials-sec{padding-top: 100px;}
+
+	.testimonials-sec .compose-left{ margin-top: 30px; }
+
+	.quote-text {font-size: 14px;line-height: 18px; width: 100%;}
+	.limites-sec {padding: 110px 0px 20px 0px;}
+
+	.testimonial-text {width: 150px;}
+	.testimonial-text br{ display: none; }
+
+	.top10-slide .owl-carousel .owl-item img{ width: 270px; }
+
+	.prof-img img{width: 170px;height: 200px;object-fit: cover;object-position: top; border-radius: 10px;}
+	.profiles-left-col h5 {font-size: 16px;width: calc(100% - 180px);padding-left: 15px;}
+
+	.footer-logo {width: 200px;}
+
+	.top-banner-right{margin-top: 20px;}
+
+	.title-2 h2:before, .comn-text-area:before {width: 80px;height: 6px;}
+
+}
